@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" db_object_id="a5d638f42f3f3910622559a72799b667" label="Application" max_length="40" name="x_1151057_passport_application" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Application Type" max_length="40" name="application_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Address Change" value="Address Change"/>
+                <element inactive_on_update="false" label="Name Correction" value="Name Correction"/>
+                <element inactive_on_update="false" label="New Issue" value="New Issue"/>
+                <element inactive_on_update="false" label="Re-issue" value="Re-issue"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Attach Relevant Documents" max_length="40" name="attach_relevant_documents" type="file_attachment"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" dependent="booking_location" dependent_on_field="booking_location" label="Booking City" max_length="40" name="booking_city" reference="cmn_location" type="choice" use_dependent_field="true">
+            <choice>
+                <element dependent_value="Andhra Pradesh" inactive_on_update="false" label="Guntur" value="Guntur"/>
+                <element dependent_value="Telangana" inactive_on_update="false" label="Hyderabad" value="Hyderabad"/>
+                <element dependent_value="Telangana" inactive_on_update="false" label="Karimnagar" value="Karimnagar"/>
+                <element dependent_value="Telangana" inactive_on_update="false" label="Khammam" value="Khammam"/>
+                <element dependent_value="Kerala" inactive_on_update="false" label="Kochi" value="Kochi"/>
+                <element dependent_value="Kerala" inactive_on_update="false" label="Kottayam" value="Kottayam"/>
+                <element dependent_value="Kerala" inactive_on_update="false" label="Kozhikode" value="Kozhikode"/>
+                <element dependent_value="Andhra Pradesh" inactive_on_update="false" label="Nellore" value="Nellore"/>
+                <element dependent_value="Telangana" inactive_on_update="false" label="Nizamabad" value="Nizamabad"/>
+                <element dependent_value="Kerala" inactive_on_update="false" label="Thiruvananthapuram" value="Thiruvananthapuram"/>
+                <element dependent_value="Andhra Pradesh" inactive_on_update="false" label="Tirupati" value="Tirupati"/>
+                <element dependent_value="Andhra Pradesh" inactive_on_update="false" label="Vijayawada" value="Vijayawada"/>
+                <element dependent_value="Andhra Pradesh" inactive_on_update="false" label="Visakhapatnam" value="Visakhapatnam"/>
+                <element dependent_value="Telangana" inactive_on_update="false" label="Warangal" value="Warangal"/>
+            </choice>
+        </element>
+        <element label=" Booking Closed Notes" max_length="40" name="booking_closed_notes" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Booking Location" max_length="40" name="booking_location" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Andhra Pradesh" value="Andhra Pradesh"/>
+                <element inactive_on_update="false" label="Kerala" value="Kerala"/>
+                <element inactive_on_update="false" label="Telangana" value="Telangana"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Booking Reason" mandatory="true" max_length="40" name="booking_reason" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Business Trip" value="Business Trip"/>
+                <element inactive_on_update="false" label="Medical Treatment" value="Medical Treatment"/>
+                <element inactive_on_update="false" label="Onsite Opportunity" value="Onsite Opportunity"/>
+                <element inactive_on_update="false" label="Study Abroad" value="Study Abroad"/>
+                <element inactive_on_update="false" label="Vacation or Holiday Travel" value="Vacation or Holiday Travel"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="New" label="Booking State" max_length="40" name="booking_state" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Canceled" value="canceled"/>
+                <element inactive_on_update="false" label="Closed" value="closed"/>
+                <element inactive_on_update="false" label="In-Progress" value="in-progress"/>
+                <element inactive_on_update="false" label="New" value="new"/>
+                <element inactive_on_update="false" label="Pending" value="pending"/>
+                <element inactive_on_update="false" label="Resolved" value="resolved"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label=" Booking Through" max_length="40" name="booking_through" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Agent" value="Agent"/>
+                <element inactive_on_update="false" label="Application" value="Application"/>
+                <element inactive_on_update="false" label="Self" value="Self"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Booking Type" max_length="40" name="booking_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="General" value="General"/>
+                <element inactive_on_update="false" label="Tatkal" value="Tatkal"/>
+            </choice>
+        </element>
+        <element label="Comments" max_length="40" name="comments" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Date of Birth" max_length="40" name="date_of_birth" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Email Address" max_length="40" name="email_address" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="First Name" max_length="40" name="first_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="ID_Proof" max_length="40" name="id_proof" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Last Name" max_length="40" name="last_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Middle Name" max_length="40" name="middle_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" read_only="true" reference_qual="null" reference_qual_condition="null" type="string"/>
+        <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Passport Booking For" mandatory="true" max_length="32" name="passport_booking_for" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true,pdf_cell_type=image" label="Passport Size Photo" max_length="40" name="passport_size_photo" type="user_image"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" label="Pending Reason" max_length="40" name="pending_reason" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Already Applied" value="Already Applied"/>
+                <element inactive_on_update="false" label="Need More Documents" value="Need More Documents"/>
+                <element inactive_on_update="false" label="Not Eligible" value="Not Eligible"/>
+                <element inactive_on_update="false" label="Police Verification Pending" value="Police Verification Pending"/>
+                <element inactive_on_update="false" label="Verification In Pending" value="Verification In Pending"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Permanent Address" max_length="60" name="permanent_address" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Phone Number" max_length="40" name="phone_number" type="phone_number_e164"/>
+        <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Regional Manager" max_length="32" name="regional_manager" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element label="Work notes" max_length="40" name="work_notes" type="string"/>
+        <index name="index">
+            <element name="passport_booking_for"/>
+        </index>
+        <index name="index2">
+            <element name="regional_manager"/>
+        </index>
+        <index name="index3">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

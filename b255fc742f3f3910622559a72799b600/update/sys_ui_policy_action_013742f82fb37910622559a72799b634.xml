@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>booking_closed_notes</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-15 11:58:23</sys_created_on>
+        <sys_id>013742f82fb37910622559a72799b634</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>booking_closed_notes</sys_name>
+        <sys_package display_value="PassportBookingApp" source="x_1151057_passport">b255fc742f3f3910622559a72799b600</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="PassportBookingApp">b255fc742f3f3910622559a72799b600</sys_scope>
+        <sys_update_name>sys_ui_policy_action_013742f82fb37910622559a72799b634</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-15 11:58:23</sys_updated_on>
+        <table>x_1151057_passport_application</table>
+        <ui_policy display_value="Make closing notes mandatory">e59606b82fb37910622559a72799b6b8</ui_policy>
+        <visible>true</visible>
+    </sys_ui_policy_action>
+</record_update>

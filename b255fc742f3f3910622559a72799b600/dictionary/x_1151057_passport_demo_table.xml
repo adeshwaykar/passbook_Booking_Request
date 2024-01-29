@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="181943572ffb3550622559a72799b665" label="Demo Table" max_length="40" name="x_1151057_passport_demo_table" type="collection">
+        <element attributes="base_start=true,edge_encryption_enabled=true" label="table" max_length="80" name="table" type="table_name"/>
+    </element>
+</database>

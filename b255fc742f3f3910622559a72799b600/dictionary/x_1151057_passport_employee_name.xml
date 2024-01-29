@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="cc0893d72f3f3550622559a72799b60c" label="Employee" max_length="40" name="x_1151057_passport_employee_name" type="collection">
+        <element label="Building Name" max_length="40" name="building_name" type="string"/>
+        <element label="Designation" max_length="40" name="designation" type="string"/>
+        <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Employee Department" max_length="32" name="employee_department" reference="cmn_department" type="reference"/>
+        <element label="Employee ID" max_length="40" name="employee_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Employee Name" max_length="32" name="employee_name" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Employee Title" max_length="32" name="employee_title" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Mobile Number" max_length="40" name="mobile_number" type="phone_number_e164"/>
+        <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Reporting Manager" max_length="32" name="reporting_manager" reference="sys_user" type="reference"/>
+        <element label="Travel Start Date" max_length="40" name="travel_start_date" type="glide_date"/>
+        <index name="index">
+            <element name="employee_department"/>
+        </index>
+        <index name="index2">
+            <element name="employee_name"/>
+        </index>
+        <index name="index3">
+            <element name="employee_title"/>
+        </index>
+        <index name="index4">
+            <element name="reporting_manager"/>
+        </index>
+    </element>
+</database>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>catalog_mobile_devices</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-22 05:45:32</sys_created_on>
+        <sys_id>9705f88b2f3fb150622559a72799b6e3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Mobile Devices View</sys_name>
+        <sys_package display_value="PassportBookingApp" source="x_1151057_passport">b255fc742f3f3910622559a72799b600</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="PassportBookingApp">b255fc742f3f3910622559a72799b600</sys_scope>
+        <sys_update_name>sys_ui_view_9705f88b2f3fb150622559a72799b6e3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-22 05:45:32</sys_updated_on>
+        <title>Mobile Devices View</title>
+        <user/>
+    </sys_ui_view>
+</record_update>

@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="booking_city" table="x_1151057_passport_application" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>booking_city</element>
+            <name>x_1151057_passport_application</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-15 10:49:43</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>booking_city</sys_name>
+            <sys_package display_value="PassportBookingApp" source="x_1151057_passport">b255fc742f3f3910622559a72799b600</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="PassportBookingApp">b255fc742f3f3910622559a72799b600</sys_scope>
+            <sys_update_name>sys_choice_x_1151057_passport_application_booking_city</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-15 10:49:43</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Andhra Pradesh</dependent_value>
+            <element>booking_city</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Guntur</label>
+            <language>en</language>
+            <name>x_1151057_passport_application</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-15 10:56:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-15 10:57:07</sys_updated_on>
+            <value>Guntur</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Telangana</dependent_value>
+            <element>booking_city</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Hyderabad</label>
+            <language>en</language>
+            <name>x_1151057_passport_application</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-15 10:49:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-15 10:49:54</sys_updated_on>
+            <value>Hyderabad</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Telangana</dependent_value>
+            <element>booking_city</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Karimnagar</label>
+            <language>en</language>
+            <name>x_1151057_passport_application</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-15 10:50:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-15 10:50:34</sys_updated_on>
+            <value>Karimnagar</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Telangana</dependent_value>
+            <element>booking_city</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Khammam</label>
+            <language>en</language>
+            <name>x_1151057_passport_application</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-15 10:50:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-15 10:50:41</sys_updated_on>
+            <value>Khammam</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Kerala</dependent_value>
+            <element>booking_city</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Kochi</label>
+            <language>en</language>
+            <name>x_1151057_passport_application</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-15 10:53:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-15 10:54:53</sys_updated_on>
+            <value>Kochi</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Kerala</dependent_value>
+            <element>booking_city</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Kottayam</label>
+            <language>en</language>
+            <name>x_1151057_passport_application</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-15 10:53:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-15 10:53:46</sys_updated_on>
+            <value>Kottayam</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Kerala</dependent_value>
+            <element>booking_city</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Kozhikode</label>
+            <language>en</language>
+            <name>x_1151057_passport_application</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-15 10:54:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-15 10:54:57</sys_updated_on>
+            <value>Kozhikode</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Andhra Pradesh</dependent_value>
+            <element>booking_city</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Nellore</label>
+            <language>en</language>
+            <name>x_1151057_passport_application</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-15 10:56:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-15 10:57:10</sys_updated_on>
+            <value>Nellore</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Telangana</dependent_value>
+            <element>booking_city</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Nizamabad</label>
+            <language>en</language>
+            <name>x_1151057_passport_application</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-15 10:52:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-15 10:52:27</sys_updated_on>
+            <value>Nizamabad</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Kerala</dependent_value>
+            <element>booking_city</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Thiruvananthapuram</label>
+            <language>en</language>
+            <name>x_1151057_passport_application</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-15 10:54:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-15 10:55:02</sys_updated_on>
+            <value>Thiruvananthapuram</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Andhra Pradesh</dependent_value>
+            <element>booking_city</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Tirupati</label>
+            <language>en</language>
+            <name>x_1151057_passport_application</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-15 10:56:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-15 10:57:16</sys_updated_on>
+            <value>Tirupati</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Andhra Pradesh</dependent_value>
+            <element>booking_city</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Vijayawada</label>
+            <language>en</language>
+            <name>x_1151057_passport_application</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-15 10:55:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-15 10:57:02</sys_updated_on>
+            <value>Vijayawada</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Andhra Pradesh</dependent_value>
+            <element>booking_city</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Visakhapatnam</label>
+            <language>en</language>
+            <name>x_1151057_passport_application</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-15 10:55:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-15 10:56:58</sys_updated_on>
+            <value>Visakhapatnam</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Telangana</dependent_value>
+            <element>booking_city</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Warangal</label>
+            <language>en</language>
+            <name>x_1151057_passport_application</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-15 10:51:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-15 10:52:04</sys_updated_on>
+            <value>Warangal</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="update_synch=true" db_object_id="6cf7e9452fb3b910622559a72799b60b" extends="dl_matcher" label="Data Lookup Passport" max_length="40" name="x_1151057_passport_data_lookup_passport" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Booking Reason" max_length="40" name="booking_reason" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Business Trip" value="Business Trip"/>
+                <element inactive_on_update="false" label="Medical Treatment" value="Medical Treatment"/>
+                <element inactive_on_update="false" label="Onsite Opportunity" value="Onsite Opportunity"/>
+                <element inactive_on_update="false" label="Study Abroad" value="Study Abroad"/>
+                <element inactive_on_update="false" label="Vacation or Holiday Travel" value="Vacation or Holiday Travel"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Booking Type" max_length="40" name="booking_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="General" value="General"/>
+                <element inactive_on_update="false" label="Tatkal" value="Tatkal"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Book Through" max_length="40" name="book_through" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Agent" value="Agent"/>
+                <element inactive_on_update="false" label="Application" value="Application"/>
+                <element inactive_on_update="false" label="Self" value="Self"/>
+            </choice>
+        </element>
+    </element>
+</database>

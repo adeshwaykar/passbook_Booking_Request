@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item display_value=" I Phone 14s Pro">4475b8872fbfb150622559a72799b6cb</catalog_item>
+        <catalog_variable>IO:aebe21972f373550622559a72799b637</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>ignore</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-23 04:53:12</sys_created_on>
+        <sys_id>0722399b2f373550622559a72799b63f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>mobile_colour</sys_name>
+        <sys_package display_value="PassportBookingApp" source="x_1151057_passport">b255fc742f3f3910622559a72799b600</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="PassportBookingApp">b255fc742f3f3910622559a72799b600</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_0722399b2f373550622559a72799b63f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-23 04:53:12</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Make Mobile Colour and Extra rom visible only  if extra memory is selected">6bc1fd5b2f373550622559a72799b647</ui_policy>
+        <variable>mobile_colour</variable>
+        <variable_set/>
+        <visible>true</visible>
+    </catalog_ui_policy_action>
+</record_update>

@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item">
+    <sc_cat_item action="INSERT_OR_UPDATE">
+        <access_type>restricted</access_type>
+        <active>true</active>
+        <availability>on_desktop</availability>
+        <billable>false</billable>
+        <category display_value="I Phone Mobiles">7315b0872fbfb150622559a72799b6b4</category>
+        <checked_out>false</checked_out>
+        <cost>0</cost>
+        <custom_cart/>
+        <delivery_plan display_value="DEFAULT">523da512c611228900811a37c97c2014</delivery_plan>
+        <delivery_plan_script/>
+        <delivery_time>1970-01-03 00:00:00</delivery_time>
+        <description/>
+        <display_price_property>non_zero</display_price_property>
+        <entitlement_script/>
+        <flow_designer_flow/>
+        <fulfillment_automation_level>unspecified</fulfillment_automation_level>
+        <group/>
+        <hide_sp>false</hide_sp>
+        <icon/>
+        <ignore_price>true</ignore_price>
+        <image/>
+        <location/>
+        <mandatory_attachment>false</mandatory_attachment>
+        <meta/>
+        <mobile_hide_price>false</mobile_hide_price>
+        <mobile_picture/>
+        <mobile_picture_type>use_desktop_picture</mobile_picture_type>
+        <model/>
+        <name> I Phone 14s Pro</name>
+        <no_attachment_v2>false</no_attachment_v2>
+        <no_cart>false</no_cart>
+        <no_cart_v2>false</no_cart_v2>
+        <no_delivery_time_v2>false</no_delivery_time_v2>
+        <no_order>false</no_order>
+        <no_order_now>false</no_order_now>
+        <no_proceed_checkout>false</no_proceed_checkout>
+        <no_quantity>false</no_quantity>
+        <no_quantity_v2>false</no_quantity_v2>
+        <no_search>false</no_search>
+        <no_wishlist_v2>false</no_wishlist_v2>
+        <omit_price>false</omit_price>
+        <order>0</order>
+        <ordered_item_link/>
+        <owner display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</owner>
+        <picture>9e46f8c72fbfb150622559a72799b6c7</picture>
+        <preview>JavaScript: popupOpenStandard("com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;sysparm_id=4475b8872fbfb150622559a72799b6cb&amp;sysparm_preview=true", "summary");</preview>
+        <price>0</price>
+        <published_ref/>
+        <recurring_frequency/>
+        <recurring_price>0</recurring_price>
+        <request_method/>
+        <roles/>
+        <sc_catalogs>1bf4fc472fbfb150622559a72799b6bc</sc_catalogs>
+        <sc_ic_item_staging/>
+        <sc_ic_version/>
+        <sc_template/>
+        <short_description/>
+        <show_variable_help_on_load>false</show_variable_help_on_load>
+        <start_closed>false</start_closed>
+        <state>published</state>
+        <sys_class_name>sc_cat_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-22 05:48:59</sys_created_on>
+        <sys_id>4475b8872fbfb150622559a72799b6cb</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name> I Phone 14s Pro</sys_name>
+        <sys_package display_value="PassportBookingApp" source="x_1151057_passport">b255fc742f3f3910622559a72799b600</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="PassportBookingApp">b255fc742f3f3910622559a72799b600</sys_scope>
+        <sys_update_name>sc_cat_item_4475b8872fbfb150622559a72799b6cb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-23 04:22:01</sys_updated_on>
+        <taxonomy_topic/>
+        <template/>
+        <template_manager_roles/>
+        <type>item</type>
+        <use_sc_layout>true</use_sc_layout>
+        <vendor/>
+        <visible_bundle>true</visible_bundle>
+        <visible_guide>true</visible_guide>
+        <visible_standalone>true</visible_standalone>
+        <workflow/>
+    </sc_cat_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=4475b8872fbfb150622559a72799b6cb"/>
+    <fx_price action="delete_multiple" query="id=4475b8872fbfb150622559a72799b6cb"/>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>price</field>
+        <id>4475b8872fbfb150622559a72799b6cb</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-22 05:48:59</sys_created_on>
+        <sys_id>b1d5b0c72fbfb150622559a72799b61c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-22 05:48:59</sys_updated_on>
+        <table>sc_cat_item</table>
+        <type>calculated</type>
+    </fx_price>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>recurring_price</field>
+        <id>4475b8872fbfb150622559a72799b6cb</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-22 05:48:59</sys_created_on>
+        <sys_id>b5d5b0c72fbfb150622559a72799b61d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-22 05:48:59</sys_updated_on>
+        <table>sc_cat_item</table>
+        <type>calculated</type>
+    </fx_price>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color>#c9bfb0</average_image_color>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/jpeg</content_type>
+        <file_name>picture</file_name>
+        <hash>07d4f194d7bed22e498eb47a55eb8e510cd5e3f766ade5d6eb8c2cdfffd3f5cc</hash>
+        <image_height>183</image_height>
+        <image_width>195</image_width>
+        <size_bytes>4232</size_bytes>
+        <size_compressed>4130</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-22 05:50:56</sys_created_on>
+        <sys_id>9e46f8c72fbfb150622559a72799b6c7</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-22 05:50:56</sys_updated_on>
+        <table_name>ZZ_YYsc_cat_item</table_name>
+        <table_sys_id>4475b8872fbfb150622559a72799b6cb</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="picture" sys_id="9e46f8c72fbfb150622559a72799b6c7">9e46f8c72fbfb150622559a72799b6c7</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-22 05:50:56</sys_created_on>
+        <sys_id>de46f8c72fbfb150622559a72799b6c7</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>lVZ3VBNKsw+9iRAQUIpA6C2KEnq5CtLLhRBaRAQEqaFJkSpBSkKTICBdkBqkC0gTIYBABAQNJXQ0XjpIL0I+vNf7vfP+eufNnDPn7M7u7Mzsb3aWPEGeB7Dqa+tpAygoAACKcwaQpwBPAQy0dPR0tAz0dPSMjAxMzJwszBcuMPNc4mDlFOADgQT4+PmFxeWkhUVlxfj5ZdRkZCEKysrKQlIaWhqKmnJKygoUjIyMzBeYuVlYuBVE+EUU/t9Efg8A0gOaADgqChCAEkhBBaQgdwN4f7lI88vV/xINBSU1LR0V/bnWmBVAQUVJSUPFcu421S8lBYCSihpIQ0vHJih7i/1R3SUO0A2IvKmZvU9kSmrtCCfMAVNQ2MkldBv6wK9+VFjkpoWjLzKqa0tU68e5Pe7zg6go/tdpFOf2aGjPdWLAc9sU1OdMQ/FfHZCKmk2WXfDGLVN7GpBPysIlMhFwgep8IZAKCNAAbIjHPYmLY0RXcJc05uUS6/XHWntmTV6KZ77vuxM5HqzBbXefDEBW25aruoZFnTEq6RB9pL9ZqQUU/SjeZzkU+z3PMKD+0UCJk+X3kGnIw4/l6T3rvE5SNBlATeJ3FhHGNnx4mFOFR8kOyKe0Ke0LwrcPJH6SAbfWzbejmNM4G/4Zaq6zk75Dj47jiaL3cU53KkPbB/I1Pp2YH4U8P4so2Ee9uD5p6r47OS79pU8oiqcwZGheeLYUlIapUVeArKnkfPaGigeDQM+0tKi1/tDSorljfisKNbQvr2ivXGfoWbn4xkvjAMXIzt57va1JhwD5fEP07VydWurPYj0H8DsxHpMVvv231/IfzcFh8h6hbGrTCUYuiU2T7pThoxY3TypjUpbvtrxjL2prQBEa0yUnJoUSswcoKdQp/JsYbnHxZl4FRqAPz0roHaKT0N4H7O420xQdr1MiBO10XfDAsqr+3RsWSsNplYSxgJ15sU+vzHJMOfFeKzENveuITl8dmlXeykAmu8jFGhHma4HfcZv14ZvKe2KwRKGYQfS7eE3QuxJlZSU3YXkPzzGp9PkXMtoYkQy+j9AvN2lucJr+qXWqPTCW7f42iYt2GsFS6jVqOJQs7OBlL7AntZ/Eh4L1CdZ+S2B+zcl3B7ibjgwnDDcTGvPy3LJ6nR48ZpHQ4bGapox5H57KlPx63ZI3JU0hNB/382ccNCn4x6P3PPfwH3IJX0ltrorGDoOZgcy9q+IuddpsS67fH9nsUPIufnZsDfhkbj8cpHHAQ7WnFOABFSMlWNTupR1qsZnrNQxfDAGHFlRxWeWnrmXjqGOn9H7iWzrK1hdrX+RvnpoFHBy6PJbix7/YV9OLGX/QBuYkcMli/phKf8u0TodciRUiwdfxh2FkgC+nPEta3QaDheRWG5heEiCgF6j4hi+mp5t4oj3EGIZZY8q2C4HPqvrJ8g8QRl4kmwsfawxAgJe/vXcFqDq62u8hGceckBXal3su7EKgw+nuJawG1ENjctUqcerg4ZqqpEnO3JLrk3L+KIx87afmd+GwVz/gnoEKubqoPEK77MVnH+hqqxGfFryrTI/CNcF0mkKJ+Jf2HQW61wJ4C0ESvzEH02I9zPAHnfYvQ1y4dfsdZbuJZRC4WWeFXzdVDUfHou2X2AO7babsZR31L/dZnDmeuqGbEl2dBNjwG5QHxKBsREObVJ7f8EgpTvPlSIzAcQ0xMSWqyYtmtLYFh/GFz+nSSfFoOnZQ6kT6BssIfteXLPmiZ76cHTEkuwHuSHWVt9XhDFX6LHZDl7YaPDXV4z13eEyoZM831+rldXZrM+DIMSfAvpio5HjsSEUnDUYhhpjKlyIgFoumFvcPn2+W+as6WIk+myFm1FJvygvD+/RJO6RpN0zpM4+LwuwO45HLU83+uewkV299/ZaBVn+YpmYI30eX6U9BsyehnXAz9w+fSnyJuxn2GFkVxIqrsghUuN8jLTJ5wn4pGoFJ3NYWQsiNPtLvGoCuPPjJGiTusBRNOitQHEkmEZqqpRY05I6brMzGNqec+KztsBcJTFC011rG0Gzjm2O1Spk3oY1ilhNT1tAqfj3XUYfWE5Hvsl5Fr85C8IXye4j1qo5l6Rdum06FPej19efRYDHfi3XVSXsWU27DRouS8es2vRnCYyNDMmfDP17UuazuVU6KV4obVb/6aB6+evj6XszQw0HDUxx+eunH6xZj+AYt3+Dkhpm+Apjp/uVAhYfNetdexyb8z+vCOpHv76j6mGqUCemacaHM2Ukx9bLdpYVWHToAt075y2PL0G5pn6DYw4vLNAzJpEMfq2l5yiBFSt7mdYQ83iqBsCPdUD+mI0wp8Jfu1mrMOjVArTPQiNe+boRkExz8xD/HIMoEAHtD1HjAIRMB7byPUMiHjS0YGS6B3HkMz7rhTYye5f02ny965fgxGwOTua1AqITohLBvTkcG8XODuIdPqjK1deCg7D+7nKNLU1QmdGeWWnbykJLljphSphhre4UkPc27VqECzzzqF4tDpoXLBOB+2quHMFEH+6AEyKnwm4QUlF1QSepLi+ooi21rE/opd9M7I0xuoxGP3+bLp760lHjVTQb8yJFzD3iz8K4yH/ltdnlwd1EDvP60281weNSSrWc/r989TbFyc1I8RwcocsJbUFzhI/LwVV1c4Mqmg7IHS486pr4qO8SpUrm4B04At6wkFimJhSl5+iy2hjgJ6cQHaNbZSLkZ7aelmVh9z00yfzckyg0NA5dGLzbVjN072qjI6LN6uX3npwU4ImbRwrv1+ZBTt1amNlbGs05ZPlkmN6LTB+quHEzI/6gwTqgqSSzdOuaSOeiI9XMOQaYy3pR55nvG5xixtHYgcb19aXkndSIOfQvICgRSmMJMqSFBZy0PFcgAzC7jwOxaU/ZVTBvYIKS4IfgeB6wJRnPbMvpP2EvsjGFATEXR2Y6PsafYH9W5NStkwEoKhYqD6Kxj0w+ppUSxwEy033kVhLabiImulwwGdDVUOnzKsouu2y/Ltx2yKh44jlHCcHZEdAy0WdQy3tu50bKSYQ4zKzGomDiRAtJnxoQJH1dZH/YESmhyKKrMVem8YFUjaX6GDMvTvvf0UXmyVfHwMeb2+iygfuEKPkJ6C7eWUD77nb9uLpPGQDwH65XhwnIoaCDV3dytZUb/d6/PgcEUX8ZV849fCLxaquGIbPXi0D9b1RmcGWWsyIBOE9slFSSxzAMFplK2KkLyj6e+3bvtjDLIF5nyfOK981rPqDjiCN1QxbXWdNdWFz3qPJ2JeuZ1ym3UsSRFetUepleE581AwwOhel5YS7xBGDgT/iaa98t2L9FtXsvxROkFeKnta7wXjjAPqcZJurzyGGJOz9J0WQEpj3T0scT2BUTzlly/2AYZ7aC/5q4Zob74R7xlp2iTvZdQeupS0oiwpzk8qhg/r+roWYBBqLk+iDzYTeEiUF+T8UC5b1snkQF/IWdJvGQALXdhSkFXSVkUtsTPtayztizb0SSl7W5o1GcnjYEFHnWTvSoJphB2lPaZOb8KvmA3W1zawyHXgi9+u9fyYs8oD3KuMNDtqFHUGRqbZqt1B5mHqvJU37bzdGV5OjWDw7fb+5irfEY3Xk8g7QdYucMzauZnZoxxq4ym2k5VB1sbnvxaEhBW3Tj0nyAQJUgABKJH/87xQjPcbsblqLXl1l0FsK3xlGUBzJSDrbe85FHyWEJ87ny1kPYWvKG4NM66r8itRd8Fod9NnOnKMkbZgdfsTJdvtk1Ds/VGpL5zByD9c8Bj60K4b/Cl3aHTOteCmDzRL5aUWwEfqGwdyACpOCIPrisIHlTXCiyvJDyoYkZrrC0kuH24vC0XMqa6rWxtMIswOd27JoJF566cA+N2LFtWOpWxv3Px49ZlEvHD43DUdiJWDUbraasqKgjVumuvwvshu0VoXn5WlcY+d3UsS5O94clbIdigSo4qDVyF2peVQUbFxiTyeug7PN52c2GaqB5n5nZT+qA9ZsfltFOv7GnfvwmR9IGZLyJFO1p+7AQ+Qv5KSdCvlMB8V0KyLYtNTc0R5rpxcRBP0cDsf+qHpKf9NYZB+4hXd4c5b8tyJMtwKtXn1olcLtvbvat8oe23V+1sBDbvET435WjVjLlgerD6W3WTFde/BlpjwTZc8qdoojPwShfE1JnbUio4c1aGEMbWY0nhXZetvxgCS2FmQr3DXtAPis+RrveRvD1wuVSVv2KVDFhMLcChBNLLDcOjMHgIm9t+kv3JexlRx3iNeybFN8ZDJrzkkwsvYRLwapv2rRp7mSOMRk58cnn/Fht9HBLU0TLyK0ZscYT/1+8by9R3W3IbS/ULCyWlsZIgZrhe7l8OoURjlE0SQ6xvM5zRv9VNd3iGCTFq+XiiND3PONKqWT/jef+EYOPx5RZBV86vFn5X0lNso/Zn0E/LuhT2pbAE+3G6WlPIZdsNfwuLcXdbRT+J6xXh6J3LdiO2tIZirmuWL7rC0dW5XpfkgmoqztDDxZ0bCxOV73jFvNyKJGoqWP2hQ0FZG/xRUwhsq+qn7StCwLAmX7tut5ly7xOrlbIw8c/bweo9zE2+Gj0Os1mpN3qJ3svWD9vXFLJ1zuPVdso7qJn9G/Cjff/+vI0ly3uo1QX/AbqpJZCzZyEwJhe3CTH9dcPQwmV/LXNreGGhwJhc2myA2GDRUloaBjTWb3XlFHn1idXxnejPTheMXiNqVwKzI4pen15trn9wl2EtoGZFnGjynIn/jZRJA790v8Qesic91pmkuDSeXdjyV4NvG5zZf5frlOOvsdN27EQC4+yth3LwLDZllsI6h0KCGva5hwrXKwcLNAjRlZTrRrwXb6mj2HSi0esw+zTA5l5mjtBIr/hoQN+SzZyGJO5QZvcrO6OBH55vY6HtbyyrgLvvv/c+zJG2Nu70+sNMqnnod3mfi6Se8nwpoSyKxy8D6uFfL8rsnozxQoB4Il/lxHnzohu4tIKrwrlKxa3E4eOmbRZH1QSdwlSHLCtrOnewtiEJdCyNfd/2tyNuVFt5kwEE/Pq3Q2xQMcL7Q4vtA/9YltO772bIgEurF/mPm8Pa8i/90BsC7m3dwGJ0HxDHmaz92tqTzV1W9Lw9EHmPa8Cmw0WVkdGnxrwIqy3Fu6kLO1srYfY4MsDyWlPqYlsJXtGwdxva93WB9O3MSbZUQzwbZ5esd0Xegu5CcA5V45A7MVhyc+CqCU/tsUn7lhmib9LZqM6eVfVwWKT7WA92xJyu7lR8XL7w1O9O+J/bscO7ESHz5Uea/WTALOOvDR2Cvh0f33TA1G+TIjJdw7HJF8Syrm2jUsmAtkv5IfNYOVTqWUTRyRyNxDaXdCjeYA/6DWx5lJ6xko/OZxhkkcdsewAzVPgicZ08V7/u01T2Q5yf+6AVF4ryUqU/GYo9Sq2HEUx4GoNaw+csyABOA/yzt8rSorSKPEh8co/xHR5QYm3vpzGF+1TIhkdbqLrvcpDISk6AFY0viPBPg/+/RAR58j/3/cpfiBAAAA==</data>
+        <length>5496</length>
+        <position>1</position>
+        <sys_attachment display_value="picture" sys_id="9e46f8c72fbfb150622559a72799b6c7">9e46f8c72fbfb150622559a72799b6c7</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-22 05:50:56</sys_created_on>
+        <sys_id>5246f8c72fbfb150622559a72799b6c8</sys_id>
+    </sys_attachment_doc>
+</record_update>

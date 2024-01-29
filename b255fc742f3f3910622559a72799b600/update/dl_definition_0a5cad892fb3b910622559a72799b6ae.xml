@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="dl_definition">
+    <dl_definition action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <matcher_table>x_1151057_passport_data_lookup_passport</matcher_table>
+        <name>Booking type defination</name>
+        <run_on_form_change>true</run_on_form_change>
+        <run_on_insert>true</run_on_insert>
+        <run_on_update>true</run_on_update>
+        <source_table>x_1151057_passport_application</source_table>
+        <sys_class_name>dl_definition</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-16 04:41:36</sys_created_on>
+        <sys_id>0a5cad892fb3b910622559a72799b6ae</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Booking type defination</sys_name>
+        <sys_package display_value="PassportBookingApp" source="x_1151057_passport">b255fc742f3f3910622559a72799b600</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="PassportBookingApp">b255fc742f3f3910622559a72799b600</sys_scope>
+        <sys_update_name>dl_definition_0a5cad892fb3b910622559a72799b6ae</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-16 04:41:36</sys_updated_on>
+    </dl_definition>
+</record_update>

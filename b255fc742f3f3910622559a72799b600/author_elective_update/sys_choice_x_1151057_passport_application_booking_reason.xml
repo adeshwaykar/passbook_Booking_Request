@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="booking_reason" table="x_1151057_passport_application" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>booking_reason</element>
+            <name>x_1151057_passport_application</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-15 11:15:51</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>booking_reason</sys_name>
+            <sys_package display_value="PassportBookingApp" source="x_1151057_passport">b255fc742f3f3910622559a72799b600</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="PassportBookingApp">b255fc742f3f3910622559a72799b600</sys_scope>
+            <sys_update_name>sys_choice_x_1151057_passport_application_booking_reason</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-15 11:15:51</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>booking_reason</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Business Trip</label>
+            <language>en</language>
+            <name>x_1151057_passport_application</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-15 11:16:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-15 11:16:54</sys_updated_on>
+            <value>Business Trip</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>booking_reason</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Medical Treatment</label>
+            <language>en</language>
+            <name>x_1151057_passport_application</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-15 11:18:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-15 11:18:04</sys_updated_on>
+            <value>Medical Treatment</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>booking_reason</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Onsite Opportunity</label>
+            <language>en</language>
+            <name>x_1151057_passport_application</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-15 11:17:34</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-15 11:17:39</sys_updated_on>
+            <value>Onsite Opportunity</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>booking_reason</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Study Abroad</label>
+            <language>en</language>
+            <name>x_1151057_passport_application</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-15 11:17:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-15 11:17:15</sys_updated_on>
+            <value>Study Abroad</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>booking_reason</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Vacation or Holiday Travel</label>
+            <language>en</language>
+            <name>x_1151057_passport_application</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-15 11:15:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-15 11:16:07</sys_updated_on>
+            <value>Vacation or Holiday Travel</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>
